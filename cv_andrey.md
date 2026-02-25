@@ -16,5 +16,4 @@ https://www.linkedin.com/in/andreyderiabin/
 - автор подкаста [«Профессионалы образования»](https://alleop.wordpress.com/)
 - автор tg-канала «[Вокруг ИИ](https://t.me/vokrug_ai_ru): общество, человек и государство в эпоху ИИ; управление, регулирование, образование, безопасность»
 
-![Image](https://github.com/user-attachments/assets/17b865bb-edc5-45ba-87f9-b0d0977b16c8 =600px)
-<img src="https://github.com/user-attachments/assets/17b865bb-edc5-45ba-87f9-b0d0977b16c8" width="600">
+<img src="https://github.com/user-attachments/assets/17b865bb-edc5-45ba-87f9-b0d0977b16c8" width="500">
