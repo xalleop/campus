@@ -17,3 +17,4 @@ https://www.linkedin.com/in/andreyderiabin/
 - автор tg-канала «[Вокруг ИИ](https://t.me/vokrug_ai_ru): общество, человек и государство в эпоху ИИ; управление, регулирование, образование, безопасность»
 
 <img src="https://github.com/user-attachments/assets/155efde3-9086-43c1-8af6-3c0eaa993159" width="420">
+![Photo](https://github.com/user-attachments/assets/155efde3-9086-43c1-8af6-3c0eaa993159)
