@@ -15,7 +15,7 @@ https://www.linkedin.com/in/andreyderiabin/
 - более 20 `выступлений` на международных и российских научных концференциях за последние 5 лет
 - Official Honoree of The International Academy of Digital Arts & Sciences (Webby Awards) 2009 в 2 номинациях: Experimental & Innovation; Best Use of Location Technology. 
 - автор подкаста [«Профессионалы образования»](https://alleop.wordpress.com/)
-- автор tg-канала «[Вокруг ИИ](https://t.me/vokrug_ai_ru): общество, человек и государство в эпоху ИИ; управление, регулирование, образование, безопасность»
+- автор [блога](https://xalleop.github.io/blog/) и [tg-канала](https://t.me/vokrug_ai_ru) «Вокруг ИИ: общество, человек и государство в эпоху ИИ; управление, регулирование, образование, безопасность»
 
 <img src="https://github.com/user-attachments/assets/f683cb2a-b414-4adc-9d98-4cff1fc8562f">
 <!-- 
